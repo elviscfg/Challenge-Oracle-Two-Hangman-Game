@@ -1,0 +1,41 @@
+* {
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+body{
+    min-width: 1224px;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #F3F5FC;
+}
+
+header {
+	padding: 10px 10px;
+    margin: 0 2%;
+    
+}
+
+.box-buttons {
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.button-start {
+    width: 40%;
+    padding: 20px 10px;
+    margin: 30% 32%;
+    text-align: center;
+    border-radius: 25px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+footer {
+	text-align: center;
+	padding: 10px 0;
+}
